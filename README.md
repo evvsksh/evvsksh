@@ -2,5 +2,5 @@
 
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg"></img>
+  <img src="./assets/profile-night-green.svg"></img>
 </div>
