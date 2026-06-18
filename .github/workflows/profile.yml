@@ -23,6 +23,6 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "update profile 3d image"; then
+          if git commit -m "🗃️ Update 3D profile assets"; then
             git push
           fi
